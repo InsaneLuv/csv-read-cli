@@ -1,0 +1,83 @@
+[
+  {
+    "id": "101",
+    "email": "grace@example.com",
+    "name": "Grace Lee",
+    "department": "HR",
+    "hours_worked": 160,
+    "pay": 45,
+    "payout": 7200
+  },
+  {
+    "id": "102",
+    "email": "henry@example.com",
+    "name": "Henry Martin",
+    "department": "Marketing",
+    "hours_worked": 150,
+    "pay": 35,
+    "payout": 5250
+  },
+  {
+    "id": "103",
+    "email": "ivy@example.com",
+    "name": "Ivy Clark",
+    "department": "HR",
+    "hours_worked": 158,
+    "pay": 38,
+    "payout": 6004
+  },
+  {
+    "id": "1",
+    "email": "alice@example.com",
+    "name": "Alice Johnson",
+    "department": "Marketing",
+    "hours_worked": 160,
+    "pay": 50,
+    "payout": 8000
+  },
+  {
+    "id": "2",
+    "email": "bob@example.com",
+    "name": "Bob Smith",
+    "department": "Design",
+    "hours_worked": 150,
+    "pay": 40,
+    "payout": 6000
+  },
+  {
+    "id": "3",
+    "email": "carol@example.com",
+    "name": "Carol Williams",
+    "department": "Design",
+    "hours_worked": 170,
+    "pay": 60,
+    "payout": 10200
+  },
+  {
+    "id": "201",
+    "email": "karen@example.com",
+    "name": "Karen White",
+    "department": "Sales",
+    "hours_worked": 165,
+    "pay": 50,
+    "payout": 8250
+  },
+  {
+    "id": "202",
+    "email": "liam@example.com",
+    "name": "Liam Harris",
+    "department": "HR",
+    "hours_worked": 155,
+    "pay": 42,
+    "payout": 6510
+  },
+  {
+    "id": "203",
+    "email": "mia@example.com",
+    "name": "Mia Young",
+    "department": "Sales",
+    "hours_worked": 160,
+    "pay": 37,
+    "payout": 5920
+  }
+]

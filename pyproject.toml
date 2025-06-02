@@ -1,0 +1,9 @@
+[project]
+name = "csv-read-cli"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "fire>=0.7.0",
+    "pytest>=8.3.5",
+]
